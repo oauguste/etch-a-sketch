@@ -12,6 +12,14 @@
     border: 1px solid black;
     width: 23px;
     height: 23px;
-    
 
+}
+
+/*#boxes:hover{
+    background-color: yellow;
+}
+*/
+
+.specialClass{
+    background-color: blue;
 }
