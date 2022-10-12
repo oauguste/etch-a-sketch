@@ -10,9 +10,7 @@
 }
 #boxes{
     border: 1px solid black;
-    width: 23px;
-    height: 23px;
-
+    
 }
 
 /*#boxes:hover{
@@ -23,3 +21,5 @@
 .specialClass{
     background-color: blue;
 }
+
+.button {border-radius: 12px;}
